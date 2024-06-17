@@ -5,18 +5,18 @@ fish habitat, and fish community response in HTLN rivers and streams.
 
 # Notes
 
-Task list:
+    Task list:
 
-(1) pull data from climate exposure APIs
+    (1) pull data from USGS gauge stations and climate analyzer APIs
+    
+    (2) start looking at level and discharge data
+    
+    (3) what are park thresholds for flooding at BUFF and OZAR?
+    
+    (4) Are there detectable signals for flooding and drought in hydrographs 
+    for TAPR and PIPE? 
+    
 
-(2) transform climate data for sensitivity analysis 
-
-(3) transform and visualize fish community and habitat data 
-
-(4) run preliminary correlation analyses of fish populations and fish habitat 
-data against various climate exposure factors
-
-(5) develop regression models 
 
 
 
